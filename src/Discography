@@ -1,0 +1,25 @@
+/** Discography **/
+
+Can be accessed from link on Homepage
+Can be accessed from link on About page
+
+This page will display all artist's albums/records
+Will contain links to store where they can be bought and list of songs in each
+
+- CONTENT (including some features) -
+
+Header containing:
+Homepage       About      Live        Store       Contact/Socials
+
+Page will have row of album cover photos with name and year album released underneath.
+
+Text underneath to have hover popup with list of all songs from selected album.
+
+At top of page sort selector feature to order albums in asc/desc order in terms of name or year
+
+At very bottom of page will be hyperlink to store page.
+
+
+
+
+

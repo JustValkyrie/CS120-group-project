@@ -1,0 +1,27 @@
+/** Store **/
+
+Can be accessed from link on header on Home
+Can be accessed from hyperlink on footer on Discography
+
+This is the store page where merchandise for the artist and tickets for shows are listed
+
+----Content----
+
+Top of the page will have a large text reading "Store"
+
+Small description of the store, where the proceeds made will be pledged to, etc.
+
+A list of merchandise will be shown with filter to sort list by:
+"Price: High to Low"
+"Price: Low to High"
+"Recently Added"
+"Most Relevant"
+
+A list of tickets to upcoming shows will be shown with filter to sort list by:
+"Price: High to Low"
+"Price: Low to High"
+"Recently Added"
+"Most Relevant"
+
+Footer will contain a link back to Home
+Footer will contain a link to Live
