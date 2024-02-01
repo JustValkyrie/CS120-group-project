@@ -1,0 +1,22 @@
+/** Home Page **/
+
+Can be accessed from link on header on Discography
+Can be accessed from link on header on About
+Can be accessed from link on header on Live
+Can be accessed from link on header on Store
+Can be accessed from link on header on Contact/Socials 
+
+This is the home page where all the other pages are linked,
+pictures of the artist,
+and acts as a hub for the other features of the website.
+
+----Content----
+
+Header containing:
+About       Discography     Live        Store       Contact/Socials
+
+Small blurb about the artist with info about his upcoming shows
+
+Pictures of the artist on tour displayed
+
+Any terms & conditions linked at footer of page
