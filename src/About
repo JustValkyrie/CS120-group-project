@@ -4,6 +4,9 @@ Accessed by clicking the 'About Me' button on the home page.
 
 --------------------------CONTENT--------------------------
 
+() Header containing:
+Home       Discography     Live        Store       Contact/Socials
+
 () General description of artist's background, music career history, and general facts about them such as origin of music interest, nationality and other miscellaneous facts
 
 () Professional description of artist. Contains various statistics and information such as dates of releases, in depth description of chosen genre of music they produce, previous deals and contracts, samples of releases, features of popular releases, snapshots of past tours/live events
@@ -11,3 +14,9 @@ Accessed by clicking the 'About Me' button on the home page.
 ------()  Professional description area will include a button to redirect user to the 'Discography' section of the website which can also be accessed from the home page
 
 ------()  Professional description area will also include a button to redirect the user to the 'Live' section of the website which can also be accessed from the home page
+
+() This page will also include images of the artist, pictures of the artist while on tour or during shows, pictures of most popular albums and singles
+
+() Bottom of the page will include a button to return the user back to the home page if they do not wish to proceed to the discography or live sections.
+
+-----------------------------------------------------------
